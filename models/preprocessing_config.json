@@ -1,0 +1,28 @@
+{
+    "img_size": 224,
+    "mean": [
+        0.485,
+        0.456,
+        0.406
+    ],
+    "std": [
+        0.229,
+        0.224,
+        0.225
+    ],
+    "classes": [
+        "rock",
+        "paper",
+        "scissors"
+    ],
+    "class_to_idx": {
+        "rock": 0,
+        "paper": 1,
+        "scissors": 2
+    },
+    "idx_to_class": {
+        "0": "rock",
+        "1": "paper",
+        "2": "scissors"
+    }
+}
